@@ -1,0 +1,104 @@
+All RFC models tried with different trees
+
+=============== RFC standard data for 50 ==============
+Training score:  0.999168068974645
+Accuracy OF THE MODEL:  0.9544491992764812
+precision score OF THE MODEL:  0.9708904109589042
+recall score OF THE MODEL:  0.5317702227432591
+f1 score OF THE MODEL:  0.687168610816543
+ROC AUC score OF THE MODEL:  0.7650572363320621
+Confusion Matrix: 
+[[41001    68]
+ [ 1997  2268]]
+=============== RFC standard data for 75 ==============
+Training score:  0.9998581935752235
+Accuracy OF THE MODEL:  0.954625667269599
+precision score OF THE MODEL:  0.9742268041237113
+recall score OF THE MODEL:  0.5317702227432591
+f1 score OF THE MODEL:  0.6880024268163203
+ROC AUC score OF THE MODEL:  0.7651546333955407
+Confusion Matrix: 
+[[41009    60]
+ [ 1997  2268]]
+=============== RFC standard data for 100 ==============
+Training score:  0.9998676473368754
+Accuracy OF THE MODEL:  0.9548903692592756
+precision score OF THE MODEL:  0.9796888504753674
+recall score OF THE MODEL:  0.5315357561547479
+f1 score OF THE MODEL:  0.6891624867001064
+ROC AUC score OF THE MODEL:  0.7651956703294376
+Confusion Matrix: 
+[[41022,    47],
+ [ 1998,  2267]]
+=============== RFC standard data for 200 ==============
+Training score:  1.0
+Accuracy OF THE MODEL:  0.9550668372523934
+precision score OF THE MODEL:  0.9830875975715525
+recall score OF THE MODEL:  0.5315357561547479
+f1 score OF THE MODEL:  0.6900015218383806
+ROC AUC score OF THE MODEL:  0.7652930673929161
+Confusion Matrix: 
+[[41030    39]
+ [ 1998  2267]]
+=============== RFC standard data for 300 ==============
+Training score:  1.0
+Accuracy OF THE MODEL:  0.9548903692592756
+precision score OF THE MODEL:  0.9805194805194806
+recall score OF THE MODEL:  0.5310668229777257
+f1 score OF THE MODEL:  0.6889733840304183
+ROC AUC score OF THE MODEL:  0.7649855530067959
+Confusion Matrix: 
+[[41024    45]
+ [ 2000  2265]]
+
+
+=============== RFC upsampled data for 50 ==============
+Training score:  1.0
+Accuracy OF THE MODEL:  0.9494639784709048
+precision score OF THE MODEL:  0.8674609084139985
+recall score OF THE MODEL:  0.5463071512309496
+f1 score OF THE MODEL:  0.6704071356639333
+ROC AUC score OF THE MODEL:  0.76881940629068
+Confusion Matrix: 
+[[40713   356]
+ [ 1935  2330]]
+=============== RFC upsampled data for 75 ==============
+Training score:  1.0
+Accuracy OF THE MODEL:  0.949221334980368
+precision score OF THE MODEL:  0.8607129731716281
+recall score OF THE MODEL:  0.5491207502930833
+f1 score OF THE MODEL:  0.6704838247924421
+ROC AUC score OF THE MODEL:  0.7699461892642459
+Confusion Matrix: 
+[[40690   379]
+ [ 1923  2342]]
+=============== RFC upsampled data for 100 ==============
+Training score:  1.0
+Accuracy OF THE MODEL:  0.9497066219614417
+precision score OF THE MODEL:  0.8690963183339532
+recall score OF THE MODEL:  0.5479484173505276
+f1 score OF THE MODEL:  0.6721311475409837
+ROC AUC score OF THE MODEL:  0.7696887378822083
+Confusion Matrix: 
+[[40717   352]
+ [ 1928  2337]]
+=============== RFC upsampled data for 200 ==============
+Training score:  1.0
+Accuracy OF THE MODEL:  0.9498830899545595
+precision score OF THE MODEL:  0.8719671519223591
+recall score OF THE MODEL:  0.5477139507620165
+f1 score OF THE MODEL:  0.6728110599078342
+ROC AUC score OF THE MODEL:  0.7696810762843661
+Confusion Matrix: 
+[[40726   343]
+ [ 1929  2336]]
+=============== RFC upsampled data for 300 ==============
+Training score:  1.0
+Accuracy OF THE MODEL:  0.9499492654519787
+precision score OF THE MODEL:  0.8757530120481928
+recall score OF THE MODEL:  0.5453692848769051
+f1 score OF THE MODEL:  0.6721572027163705
+ROC AUC score OF THE MODEL:  0.7686670135699629
+Confusion Matrix: 
+[[40739   330]
+ [ 1939  2326]]

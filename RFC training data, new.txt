@@ -1,0 +1,102 @@
+RFC training data, new
+
+============== RFC standard data for 50 Trees ==============
+Training score:  0.9988182797935299
+Accuracy OF THE MODEL:  0.9495080954691842
+precision score OF THE MODEL:  0.858806404657933
+recall score OF THE MODEL:  0.5538605961042009
+f1 score OF THE MODEL:  0.67341988871451
+ROC AUC score OF THE MODEL:  0.7722070005087022
+Confusion Matrix: 
+[[40685   388]
+ [ 1901  2360]]
+=============== RFC standard data for 75 Trees ==============
+Training score:  0.9997258409120989
+Accuracy OF THE MODEL:  0.9498830899545595
+precision score OF THE MODEL:  0.8641523251556207
+recall score OF THE MODEL:  0.5538605961042009
+f1 score OF THE MODEL:  0.6750572082379863
+ROC AUC score OF THE MODEL:  0.7724139491124078
+Confusion Matrix: 
+[[40702   371]
+ [ 1901  2360]]
+=============== RFC standard data for 100 ==============
+Training score:  0.9998771010985271
+ACCURACY OF THE MODEL:  0.9495742709666034
+precision score OF THE MODEL:  0.8594830724426648
+recall score OF THE MODEL:  0.5540952827974653
+f1 score OF THE MODEL:  0.6738013698630138
+ROC AUC score OF THE MODEL:  0.7723486907498879
+Confusion Matrix: 
+[[40687   386]
+ [ 1900  2361]]
+=============== RFC standard data for 200 Trees ==============
+Training score:  1.0
+Accuracy OF THE MODEL:  0.9497948559580006
+precision score OF THE MODEL:  0.8626233101936427
+recall score OF THE MODEL:  0.5540952827974653
+f1 score OF THE MODEL:  0.6747642183480993
+ROC AUC score OF THE MODEL:  0.7724704252226559
+Confusion Matrix: 
+[[40697   376]
+ [ 1900  2361]]
+=============== RFC standard data for 300 Trees ==============
+Training score:  1.0
+Accuracy OF THE MODEL:  0.9500374994485375
+precision score OF THE MODEL:  0.866642174871418
+recall score OF THE MODEL:  0.5536259094109364
+f1 score OF THE MODEL:  0.6756408420449662
+ROC AUC score OF THE MODEL:  0.7723939933439898
+Confusion Matrix: 
+[[40710   363]
+ [ 1902  2359]]
+
+
+
+=============== RFC upsampled data for 50 Trees ==============
+Training score:  0.9999843567495411
+Accuracy OF THE MODEL:  0.9342436140644991
+precision score OF THE MODEL:  0.6759208356239692
+recall score OF THE MODEL:  0.5770945787373856
+f1 score OF THE MODEL:  0.6226104570198759
+ROC AUC score OF THE MODEL:  0.7741947950293457
+Confusion Matrix: 
+[[39894  1179]
+ [ 1802  2459]]
+=============== RFC upsampled data for 75 Trees ==============
+Training score:  0.9999895711663608
+Accuracy OF THE MODEL:  0.933074513610094
+precision score OF THE MODEL:  0.665587044534413
+recall score OF THE MODEL:  0.578737385590237
+f1 score OF THE MODEL:  0.6191313080592519
+ROC AUC score OF THE MODEL:  0.7742857916191634
+Confusion Matrix: 
+[[39834  1239]
+ [ 1795  2466]]
+=============== RFC upsampled data for 100 ==============
+Training score:  0.9999905462383483
+ACCURACY OF THE MODEL:  0.9346186085498742
+precision score OF THE MODEL:  0.6786993662165886
+recall score OF THE MODEL:  0.5780333255104435
+f1 score OF THE MODEL:  0.6243346007604562
+ROC AUC score OF THE MODEL:  0.7748224232304731
+=============== RFC upsampled data for 200 Trees ==============
+Training score:  1.0
+Accuracy OF THE MODEL:  0.933934795076543
+precision score OF THE MODEL:  0.6731400437636762
+recall score OF THE MODEL:  0.5775639521239145
+f1 score OF THE MODEL:  0.6217001389415182
+ROC AUC score OF THE MODEL:  0.7742347065661813
+Confusion Matrix: 
+[[39878  1195]
+ [ 1800  2461]]
+=============== RFC upsampled data for 300 Trees ==============
+Training score:  1.0
+Accuracy OF THE MODEL:  0.9336480345877266
+precision score OF THE MODEL:  0.6708481047177529
+recall score OF THE MODEL:  0.5773292654306501
+f1 score OF THE MODEL:  0.6205852674066599
+ROC AUC score OF THE MODEL:  0.7739712818522275
+Confusion Matrix: 
+[[39866  1207]
+ [ 1801  2460]]
